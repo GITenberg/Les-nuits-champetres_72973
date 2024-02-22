@@ -1,0 +1,26 @@
+_repo: Les-nuits-champetres_72973
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Laveaux, Jean-Charles
+    gutenberg_agent_id: '56891'
+    url: http://www.gutenberg.org/2009/agents/56891
+description: ''
+gutenberg_issued: '2024-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72973'
+language: fr
+pgterms:marc904: https://books.google.com/books?id=UDIUAAAAQAAJ
+pgterms:marc905: 20240102145005laveaux
+pgterms:marc906: '1783'
+pgterms:marc907: ch
+production_note: Enrico Segre
+publication_note: '  $aLausanne :$bJ. P. Heubach & c., $c1783, pubdate 1784.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les nuits champêtres
+url: http://www.gutenberg.org/ebooks/72973
